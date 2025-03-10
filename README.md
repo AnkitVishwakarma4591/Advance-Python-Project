@@ -106,7 +106,7 @@ This project was developed for educational purposes in data analysis and visuali
 If you have any questions or suggestions, feel free to reach out!
 
 - **LinkedIn:** [Ankit Vishwakarma](https://www.linkedin.com/in/ankit-vishwakarma-324baa2a6/)
-- **Portfolio:** [My Portfolio](https://gqr.sh/fULQ)
+- **Portfolio:** [My Portfolio](https://gqr.sh/ZsZC)
 - **GitHub:** [GitHub Profile](https://github.com/)
 - **Email:** ankitvishwakarma4591@gmail.com
 
